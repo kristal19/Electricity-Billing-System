@@ -1,0 +1,5 @@
+# Electricity-Billing-System
+
+The current manual electricity billing system is time-consuming, prone to errors, and lacks transparency. The existing system involves manual entry of meter readings, calculations of consumption, and generation of bills. It is difficult to maintain accurate records and keep track of outstanding payments. Moreover, the customers have limited options to pay bills, which can lead to delays and inconveniences.
+To address these issues, an automated electricity billing system needs to be developed. The proposed system will allow users to input their meter readings and automatically generate bills based on the consumption. The system will also maintain a record of payments and generate alerts for pending payments. Additionally, the system will provide multiple payment options, including online payment, to ensure convenient and timely payments.
+The objective of the project is to develop a robust and user-friendly electricity billing system using Java programming language that automates the billing process, reduces errors, improves transparency, and provides a hassle-free experience to both the utility company and the customers.
